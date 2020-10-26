@@ -1,0 +1,286 @@
+body{
+max-width: 1440px;
+width: 100%;
+}
+
+.game{
+    display: flex;
+}
+
+/* Sidebar */
+
+.game-sidebar{
+    margin-left: 16px;
+    max-width: 480px;
+    width: 90%;
+}
+
+.sidebar-hello{
+    margin-right: 200px;
+    padding-left: 16px;
+    padding-right: 190px;
+    padding-top: 25px;
+    padding-bottom: 15px;
+    border-radius: 10px;
+    background-color: #F9F9F9;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.sidebar-info{
+    margin-top: 30px;
+    margin-right: 200px;
+    padding-left: 16px;
+    padding-right: 190px;
+    padding-top: 25px;
+    padding-bottom: 15px;
+    border-radius: 10px;
+    background-color: #F9F9F9;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+
+/* End Sidebar */
+
+/* Background */
+
+.game-background{
+max-width: 924px;
+max-height: 774px;
+width: 100%;
+height: 100%;
+}
+
+.game-body{
+max-width: 924px;
+max-height: 774px;
+width: 100%;
+height: 100%;
+}
+
+/* Position */
+
+.pos-text{
+    padding: 0;
+    margin: 0;
+    position: absolute;
+    bottom: 75px;
+    right: 40px;
+    background-color: #FFC700;
+    padding-left: 22px;
+    padding-right: 22px;
+    padding-bottom: 2px;
+    padding-top: 2px;
+    border-radius: 10px;
+    text-align: center;
+    font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 16px;
+text-align: center;
+text-transform: uppercase;
+
+color: #000000;
+
+}
+
+.position{
+    position: relative;
+}
+
+.pos1{
+position: absolute;
+bottom: 40px;
+left: 380px;
+}
+
+.pos2{
+position: absolute;
+bottom: 40px;
+left: 250px;
+}
+
+.pos3{
+position: absolute;
+bottom: 40px;
+left: 140px;
+}
+
+.pos4{
+position: absolute;
+bottom: 80px;
+left: 10px;
+}
+
+.pos5{
+position: absolute;
+bottom: 160px;
+left: 0px;
+}
+
+.pos6{
+position: absolute;
+bottom: 240px;
+left: 60px;
+}
+
+.pos7{
+position: absolute;
+bottom: 320px;
+left: 55px;
+}
+
+.pos8{
+position: absolute;
+bottom: 400px;
+left: 90px;
+}
+
+.pos9{
+position: absolute;
+bottom: 470px;
+left: 170px;
+}
+
+.pos10{
+position: absolute;
+bottom: 480px;
+left: 290px;
+}
+
+.pos11{
+position: absolute;
+bottom: 460px;
+left: 400px;
+}
+
+.pos12{
+position: absolute;
+bottom: 445px;
+left: 520px;
+}
+
+.pos13{
+position: absolute;
+bottom: 395px;
+left: 630px;
+}
+
+.pos14{
+position: absolute;
+bottom: 355px;
+left: 795px;
+}
+
+.pos15{
+position: absolute;
+bottom: 275px;
+left: 745px;
+}
+
+.pos16{
+position: absolute;
+bottom: 275px;
+left: 635px;
+}
+
+.pos17{
+position: absolute;
+bottom: 285px;
+left: 500px;
+}
+
+.pos18{
+position: absolute;
+bottom: 330px;
+left: 400px;
+}
+
+.pos19{
+position: absolute;
+bottom: 410px;
+left: 300px;
+}
+
+.pos20{
+position: absolute;
+bottom: 380px;
+left: 170px;
+}
+
+.pos21{
+position: absolute;
+bottom: 260px;
+left: 155px;
+}
+
+.pos22{
+position: absolute;
+bottom: 140px;
+left: 150px;
+}
+
+.pos23{
+position: absolute;
+bottom: 120px;
+left: 260px;
+}
+
+.pos24{
+position: absolute;
+bottom: 120px;
+left: 390px;
+}
+
+.pos25{
+position: absolute;
+bottom: 120px;
+left: 500px;
+}
+
+.pos26{
+position: absolute;
+bottom: 120px;
+left: 600px;
+}
+
+.pos27{
+position: absolute;
+bottom: 120px;
+left: 700px;
+}
+
+.pos28{
+position: absolute;
+bottom: 40px;
+left: 700px;
+}
+
+.pos29{
+position: absolute;
+bottom: 40px;
+left: 600px;
+}
+
+.pos30{
+position: absolute;
+bottom: 40px;
+left: 490px;
+}
+
+.pos31{
+position: absolute;
+bottom: 40px;
+left: 380px;
+}
+
+/* End Position */
+
+
+/* CARS */
+
+.icon{
+    width: 150px;
+    height: 150px;
+}
+
+/* END CARS */
